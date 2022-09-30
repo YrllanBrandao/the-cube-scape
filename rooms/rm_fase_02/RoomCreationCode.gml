@@ -1,0 +1,1 @@
+audio_play_sound(snd_bg_fase_02,2,true)
